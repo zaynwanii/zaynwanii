@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi there 👋, I'm Zaid
 
-<!--
-**zaynwanii/zaynwanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+I build scalable full-stack applications with modern TypeScript ecosystems, focusing on performant frontend experiences and robust backend architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- Next.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- NestJS
+- Express
+
+### Databases
+- MySQL
+- MongoDB
+
+### ORM & Validation
+- Drizzle ORM
+- Zod
+
+### DevOps & Tools
+- Docker
+- Git & GitHub
+- REST APIs
+- Firebase
+- Kubernetes
+
+---
+
+## 📊 GitHub Stats
+
+### 🔥 Current Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true)
+
+### 🏆 Highest Streak
+![GitHub Highest Streak](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+---
+
+## 🛠 Currently Working With
+
+- Scalable NestJS backends
+- React 19 applications
+- Drizzle ORM architectures
+- Dockerized deployments
+- Analytics & dashboard systems
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced system design
+- Distributed systems
+- Kubernetes orchestration
+- High-performance backend patterns
+
+---
+
+## 📫 Connect With Me
+
+
+- Email: zaidwaani@gmail.com
