@@ -9,46 +9,45 @@ I build scalable full-stack applications with modern TypeScript ecosystems, focu
 ## 🚀 Tech Stack
 
 ### Frontend
-- React
-- TypeScript
-- Next.js
-- Tailwind CSS
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
-- Node.js
-- NestJS
-- Express
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
 
-### Databases
-- MySQL
-- MongoDB
+### Database & ORM
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![Drizzle](https://img.shields.io/badge/-DrizzleORM-000?style=for-the-badge)
 
-### ORM & Validation
-- Drizzle ORM
-- Zod
-
-### DevOps & Tools
-- Docker
-- Git & GitHub
-- REST APIs
-- Firebase
-- Kubernetes
+### Validation & DevOps
+![Zod](https://img.shields.io/badge/-Zod-000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
 
 ---
 
 ## 📊 GitHub Stats
 
-### 🔥 Current Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=zaynwani&theme=dark&hide_border=true)
+### 🔥 GitHub Streak
 
-### 🏆 Highest Streak
-![GitHub Highest Streak](https://github-readme-stats.vercel.app/api?username=zaynwani&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zaynwanii&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## 📈 Most Used Languages
+### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaynwani&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaynwanii&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+### 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaynwanii&layout=compact&theme=dark&hide_border=true)
 
 ---
 
@@ -64,14 +63,13 @@ I build scalable full-stack applications with modern TypeScript ecosystems, focu
 
 ## 🌱 Currently Exploring
 
-- Advanced system design
 - Distributed systems
 - Kubernetes orchestration
-- High-performance backend patterns
+- Advanced backend architecture
+- High-performance scalable systems
 
 ---
 
-## 📫 Connect With Me
-
+## 📫 Contact
 
 - Email: zaidwaani@gmail.com
