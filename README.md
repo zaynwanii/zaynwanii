@@ -39,16 +39,16 @@ I build scalable full-stack applications with modern TypeScript ecosystems, focu
 ## 📊 GitHub Stats
 
 ### 🔥 Current Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=zaynwani&theme=dark&hide_border=true)
 
 ### 🏆 Highest Streak
-![GitHub Highest Streak](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Highest Streak](https://github-readme-stats.vercel.app/api?username=zaynwani&show_icons=true&theme=dark)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaynwani&layout=compact&theme=dark)
 
 ---
 
