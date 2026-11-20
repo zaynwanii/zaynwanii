@@ -35,7 +35,7 @@ I build scalable full-stack applications with modern TypeScript ecosystems, focu
 
 ### 🔥 GitHub Streak
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=zaynwanii&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
